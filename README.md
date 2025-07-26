@@ -56,11 +56,10 @@ Sorting-Algorithm-Visualizer/
 
 ## 🎨 Color Coding
 
-- **🔵 Blue**: Default/unsorted elements
-- **🔴 Red**: Elements currently being compared
-- **🟢 Green**: Sorted elements in their final position
-- **🟡 Yellow**: Pivot element (used in Quick Sort)
-- **🟠 Orange**: Elements in the process of being moved
+- **🔵 Blue**: Default/unsorted elements and elements returned to normal state
+- **🔴 Red**: Elements are being swapped during the sorting process
+- **🟢 Green**: Elements in their final sorted position
+- **🟡 Yellow**: Element is currently being compared or is selected as the pivot
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
